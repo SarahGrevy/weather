@@ -15,6 +15,6 @@ See project here: https://sarahgrevy.github.io/weather_project
 - rainfall data: rain.csv 
 
 ## Analysis:
-- weather_analysis.pyed
+- weather_analysis.ipynb
 
 
